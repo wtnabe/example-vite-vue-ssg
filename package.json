@@ -1,0 +1,19 @@
+{
+  "name": "vite-vue-pages",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.1.0",
+    "vite-plugin-pages": "^0.7.2",
+    "vite-plugin-vue-layouts": "^0.2.2"
+  }
+}
